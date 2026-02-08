@@ -225,8 +225,7 @@ Ver [CONTRIBUIR.md](docs/CONTRIBUIR.md) para más detalles.
 
 **Inti Fernandez**
 
-- GitHub: [@tu-usuario](https://github.com/intifernandez-dev)
-- LinkedIn: [Tu Nombre](https://linkedin.com/in/tu-perfil)
+- GitHub: (https://github.com/intifernandez-dev)
 - Email: intifernandez.dev@gmail.com
 
 ## 🙏 Agradecimientos
