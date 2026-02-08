@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-green)](https://www.selenium.dev/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Aplicación de escritorio con interfaz gráfica que calcula automáticamente los costos de un viaje en motocicleta en Argentina, obteniendo precios actualizados mediante web scraping.
 
